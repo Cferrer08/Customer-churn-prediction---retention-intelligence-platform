@@ -1,0 +1,4 @@
+risk_band,customers,arr_at_risk,expected_value_of_action
+High,1838,1482091.03,725024.63
+Low,29884,1661285.44,0.0
+Medium,2859,1128875.85,580768.11

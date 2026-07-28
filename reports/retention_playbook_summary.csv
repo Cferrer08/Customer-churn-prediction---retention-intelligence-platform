@@ -1,0 +1,12 @@
+risk_band,recommended_action,action_owner,customers,arr_at_risk,programme_cost,expected_value
+High,Offer a 20% loyalty discount or right-size the plan,Retention desk,1290,1188486.32,64223.63,634605.49
+Medium,Send a targeted feature-adoption sequence,Lifecycle Marketing,1592,522914.95,19104.0,288369.41
+Medium,Move to auto-pay with a one-off billing credit,Billing operations,586,226360.21,14650.0,118449.58
+Medium,Offer an annual contract with two months free,Retention desk,423,232012.25,44095.74,92327.1
+Medium,Add to the quarterly satisfaction check-in list,Account management,258,147588.44,5160.0,81622.02
+High,Assign a customer success manager and run a support review,Customer Success,438,237639.41,78840.0,60891.68
+High,Trigger a re-onboarding campaign with a guided feature walkthrough,Lifecycle Marketing,95,44157.74,2280.0,23684.64
+High,Offer an annual contract with two months free,Retention desk,13,10562.21,1050.0,5160.56
+High,Move to auto-pay with a one-off billing credit,Billing operations,2,1245.35,50.0,682.26
+Low,No action - keep under standard monitoring,None,29868,1661214.01,0.0,0.0
+Low,Flag as an expansion candidate for the next review,Sales,16,71.43,0.0,0.0

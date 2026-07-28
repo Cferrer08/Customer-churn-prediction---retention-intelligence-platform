@@ -1,0 +1,19 @@
+plan_id,plan_name,plan_tier,tier_rank,monthly_price,contract_type,data_limit,data_limit_gb,features
+PL01,Starter Month-to-month,Starter,1,19.99,Month-to-month,50 GB,50,Core app;Email support
+PL02,Starter One year,Starter,1,18.39,One year,50 GB,50,Core app;Email support
+PL03,Starter Two year,Starter,1,16.99,Two year,50 GB,50,Core app;Email support
+PL04,Basic Month-to-month,Basic,2,34.99,Month-to-month,150 GB,150,Core app;Email support;Mobile app
+PL05,Basic One year,Basic,2,32.19,One year,150 GB,150,Core app;Email support;Mobile app
+PL06,Basic Two year,Basic,2,29.74,Two year,150 GB,150,Core app;Email support;Mobile app
+PL07,Standard Month-to-month,Standard,3,59.99,Month-to-month,500 GB,500,Core app;Mobile app;Analytics;Priority email
+PL08,Standard One year,Standard,3,55.19,One year,500 GB,500,Core app;Mobile app;Analytics;Priority email
+PL09,Standard Two year,Standard,3,50.99,Two year,500 GB,500,Core app;Mobile app;Analytics;Priority email
+PL10,Plus Month-to-month,Plus,4,89.99,Month-to-month,1 TB,1000,Core app;Mobile app;Analytics;Integrations;API access
+PL11,Plus One year,Plus,4,82.79,One year,1 TB,1000,Core app;Mobile app;Analytics;Integrations;API access
+PL12,Plus Two year,Plus,4,76.49,Two year,1 TB,1000,Core app;Mobile app;Analytics;Integrations;API access
+PL13,Pro Month-to-month,Pro,5,129.99,Month-to-month,2.5 TB,2500,Core app;Mobile app;Advanced analytics;Integrations;API access;SSO;Phone support
+PL14,Pro One year,Pro,5,119.59,One year,2.5 TB,2500,Core app;Mobile app;Advanced analytics;Integrations;API access;SSO;Phone support
+PL15,Pro Two year,Pro,5,110.49,Two year,2.5 TB,2500,Core app;Mobile app;Advanced analytics;Integrations;API access;SSO;Phone support
+PL16,Enterprise Month-to-month,Enterprise,6,249.99,Month-to-month,Unlimited,10000,Core app;Mobile app;Advanced analytics;Integrations;API access;SSO;Dedicated CSM;Custom SLA
+PL17,Enterprise One year,Enterprise,6,229.99,One year,Unlimited,10000,Core app;Mobile app;Advanced analytics;Integrations;API access;SSO;Dedicated CSM;Custom SLA
+PL18,Enterprise Two year,Enterprise,6,212.49,Two year,Unlimited,10000,Core app;Mobile app;Advanced analytics;Integrations;API access;SSO;Dedicated CSM;Custom SLA

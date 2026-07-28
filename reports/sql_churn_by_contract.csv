@@ -1,0 +1,4 @@
+contract_type,customers,churn_rate,annual_revenue_lost
+Month-to-month,26188,0.3908,9334651.8
+One year,15105,0.2438,3815147.64
+Two year,8707,0.1724,1647476.88

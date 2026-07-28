@@ -1,0 +1,24 @@
+{
+  "active_customers": 34581,
+  "high_risk_customers": 1838,
+  "medium_risk_customers": 2859,
+  "annual_recurring_revenue": 26065688.11,
+  "arr_at_risk_total": 4272252.32,
+  "arr_at_risk_high_band": 1482091.03,
+  "high_band_annual_revenue": 1617378.62,
+  "avg_monthly_spend": 62.81,
+  "avg_expected_remaining_months": 61.8,
+  "total_clv": 55560532.91,
+  "customers_targeted": 4697,
+  "programme_cost": 229453.37,
+  "expected_revenue_saved": 783290.07,
+  "net_benefit": 553836.7,
+  "roi_multiple": 3.41,
+  "expected_annual_revenue_lost_if_no_action": 4272252.35,
+  "assumptions": {
+    "gross_margin": 0.72,
+    "save_rate": 0.3,
+    "horizon_months": 3,
+    "monthly_discount_rate": 0.01
+  }
+}

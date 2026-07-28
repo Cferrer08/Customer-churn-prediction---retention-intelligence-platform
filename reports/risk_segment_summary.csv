@@ -1,0 +1,4 @@
+risk_band,customers,avg_probability,avg_monthly_spend,annual_revenue,arr_at_risk,total_clv,avg_tenure_months,month_to_month_share,share_of_customers
+Low,29884,0.07,61.15,21928801.18,1661285.44,54787672.84,36.1,0.43,0.86
+Medium,2859,0.45,73.44,2519508.3,1128875.85,701567.72,26.11,0.63,0.08
+High,1838,0.91,73.33,1617378.62,1482091.03,71292.35,27.73,0.63,0.05
