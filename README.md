@@ -6,8 +6,8 @@ explanations translated into plain English, and a Streamlit dashboard that turns
 probability into a named retention play with an owner and a cost.
 
 > **1,838 customers — 5% of the book — carry a 91% average probability of cancelling this
-> quarter and $1.62M of annual recurring revenue. Working that list is worth an expected
-> $554K net of programme cost, a 3.4x return.**
+> quarter and $1.62M of annual recurring revenue. Working the 4,697 customers above 30% risk,
+> those 1,838 included, is worth an expected $554K net of programme cost, a 3.4x return.**
 
 ---
 

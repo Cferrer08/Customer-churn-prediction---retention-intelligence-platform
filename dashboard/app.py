@@ -138,8 +138,8 @@ def page_overview(scored: pd.DataFrame, impact: dict) -> None:
     st.markdown(
         f"**{len(high):,} customers** are more likely than not to cancel within the next quarter, "
         f"carrying **{money(high['annual_revenue'].sum())}** of annual recurring revenue. "
-        f"Working the flagged list is worth an expected **{money(impact.get('net_benefit', 0))}** "
-        f"net of programme cost."
+        f"Working the {impact.get('customers_targeted', 0):,} customers above 30% risk, those included, "
+        f"is worth an expected **{money(impact.get('net_benefit', 0))}** net of programme cost."
     )
     st.markdown('<div class="rule"></div>', unsafe_allow_html=True)
 
